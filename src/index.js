@@ -6,4 +6,6 @@ import "react-toastify/dist/ReactToastify.css";
 import "tw-elements";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
+root.render(
+<App />
+);
